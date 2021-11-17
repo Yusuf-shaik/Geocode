@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoCode</string>
+    <string name="address_hint">Address</string>
+    <string name="latitude_hint">latitude</string>
+    <string name="longitude_hint">longitude</string>
+    <string name="search_hint">Search Address</string>
+</resources>
